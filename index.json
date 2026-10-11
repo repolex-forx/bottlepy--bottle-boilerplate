@@ -1,0 +1,11 @@
+{
+  "org": "bottlepy",
+  "repo": "bottle-boilerplate",
+  "versions": [
+    {
+      "commit": "097a044d9329ae0ab99889d7de0468a5b60576f5",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:47:19.321474+00:00"
+    }
+  ]
+}
